@@ -1,0 +1,19 @@
+@media screen and (max-width:734px) {
+    .logo {
+        width: 150px;
+        margin: 5px 0 5px 0;
+    }
+    #container {
+        margin-left: 10px;
+    }
+    .loading {
+        width: 200px!important;
+    }
+    .url {
+        display: inline-block;
+        width: 325px;
+        white-space: nowrap;
+        overflow: hidden !important;
+        text-overflow: ellipsis;        
+    }
+}
